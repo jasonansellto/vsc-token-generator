@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1686750209",layout:"default",error:b,state:{price:{currencies:{ETH:a,MATIC:a,BNB:a,AVAX:a,expire:24}}},serverRendered:true,routePath:"\u002Ftoken-generator\u002Fbsc\u002F",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:b},content:{dbHash:"6367e757"}}}}(0,null));
